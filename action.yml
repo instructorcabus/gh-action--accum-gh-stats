@@ -27,7 +27,7 @@ inputs:
 
   stat_entity_path:
     description: 'Statistic entity path to request'
-    required: true
+    required: false
     # examples:
     # - traffic/clones
     # - traffic/views
